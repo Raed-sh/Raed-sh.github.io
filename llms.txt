@@ -1,0 +1,22 @@
+# Raed Shafeek (رائد شفيق) — Raed Codes
+
+> Raed Shafeek is a Senior Software Engineer at Sager Drone and a freelance AI engineer based in Amman, Jordan, with 6+ years of experience building secure, scalable platforms. He is the founder and sole developer of CarTech, a car inspection platform, and was a founding full-stack engineer at Vamu for over three years. He shares practical engineering tips in Arabic on Instagram as "Raed Codes" (@raedcodes). Also known as Raed AbuJaib / Raed Shafeek AbuJaib.
+
+## Expertise
+- AI engineering: LLM apps and integration, AI agents and automation, RAG, AI architecture consulting (freelance since 2024)
+- Full stack: Next.js, React, TypeScript, NestJS, FastAPI, Python, PostgreSQL
+- Blockchain: Hyperledger Fabric (Certified Hyperledger Expert, Certified Hyperledger Developer, Certified Blockchain & Supply Chain Professional)
+- Security & compliance: GRC platforms for SAMA and ISO 27001 (ISO/IEC 27001:2022 Lead Implementer training)
+
+## Selected work
+- CarTech — B2C car inspection platform; founder & sole developer
+- Unleash AI Mentor Platform — solo-built AI mentorship app: https://ai.unleashnow.io
+- GRC cybersecurity compliance platform — at Vamu
+- Service provider for Orange Corners Jordan and Endeavor Jordan startups
+
+## Links
+- Portfolio: https://raed-sh.github.io/
+- LinkedIn: https://www.linkedin.com/in/raed-shafeek/
+- Instagram (Raed Codes): https://www.instagram.com/raedcodes
+- GitHub: https://github.com/Raed-sh
+- Email: raedsh.work@gmail.com
