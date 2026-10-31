@@ -23,14 +23,14 @@
 <meta property="og:url" content="https://raed-sh.github.io/"/>
 <meta property="og:site_name" content="Raed Shafeek"/>
 <meta property="og:title" content="Raed Shafeek — Software &amp; AI Engineer"/>
-<meta property="og:description" content="Senior Software Engineer at Sager Drone, freelance AI engineer, and founder of CarTech. 6+ years building secure, scalable platforms."/>
+<meta property="og:description" content="Senior Software Engineer at Sager Drone, freelance AI engineer, and founder of CarTech. Coding since 2019, building secure, scalable platforms."/>
 <meta property="og:image" content="https://raed-sh.github.io/assets/og-image.png"/>
 <meta property="og:image:width" content="1200"/>
 <meta property="og:image:height" content="630"/>
 <meta property="og:image:alt" content="Raed Shafeek — Full Stack, AI Agents, Blockchain — Amman, Jordan"/>
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:title" content="Raed Shafeek — Software &amp; AI Engineer"/>
-<meta name="twitter:description" content="Senior Software Engineer at Sager Drone, freelance AI engineer, and founder of CarTech. 6+ years building secure, scalable platforms."/>
+<meta name="twitter:description" content="Senior Software Engineer at Sager Drone, freelance AI engineer, and founder of CarTech. Coding since 2019, building secure, scalable platforms."/>
 <meta name="twitter:image" content="https://raed-sh.github.io/assets/og-image.png"/>
 
 <script type="application/ld+json">
@@ -117,6 +117,7 @@ nav{position:fixed;top:0;left:0;right:0;z-index:100;display:flex;align-items:cen
 .stat-box{background:var(--sand2);border:1px solid var(--border);border-radius:12px;padding:1.4rem;text-align:center;}
 .stat-num{font-family:var(--font-serif);font-weight:900;font-size:2.2rem;line-height:1;color:var(--brown);margin-bottom:0.4rem;}
 .stat-num span{color:var(--ochre-text);}
+.stat-num .yrs-num{color:inherit;}
 .stat-lbl{font-family:var(--font-mono);font-size:0.68rem;color:var(--brown3);letter-spacing:0.08em;text-transform:uppercase;}
 .cert-strip{background:var(--ochre-light);border:1px solid rgba(193,127,59,0.25);border-radius:12px;padding:1rem 1.5rem;display:flex;align-items:center;gap:1rem;}
 .cert-icon{font-size:1.4rem;}
@@ -280,6 +281,7 @@ section[id],div[id]{scroll-margin-top:5rem;}
   .pc.dark{border-color:var(--border);}
   .pc:hover{box-shadow:0 8px 28px rgba(0,0,0,0.35);}
   .stat-num span{color:var(--ochre-text);}
+.stat-num .yrs-num{color:inherit;}
 }
 </style>
 </head>
@@ -315,7 +317,7 @@ section[id],div[id]{scroll-margin-top:5rem;}
       <span class="hero-rule-text">Full Stack · Blockchain · AI · Web3</span>
       <div class="hero-rule-line"></div>
     </div>
-    <p class="hero-desc">Senior engineer with <strong>6+ years</strong> building secure, scalable platforms — cybersecurity compliance systems, <strong>Hyperledger Fabric</strong> networks, <strong>AI agents &amp; LLM apps</strong>, and full digital products. Now a senior engineer at <strong>Sager Drone</strong>, freelancing on AI projects, and founder of <strong>CarTech</strong>. I ship systems that last.</p>
+    <p class="hero-desc">Senior engineer with <strong><span class="yrs">7</span>+ years</strong> (coding since 2019) building secure, scalable platforms — cybersecurity compliance systems, <strong>Hyperledger Fabric</strong> networks, <strong>AI agents &amp; LLM apps</strong>, and full digital products. Now a senior engineer at <strong>Sager Drone</strong>, freelancing on AI projects, and founder of <strong>CarTech</strong>. I ship systems that last.</p>
     <div class="hero-actions">
       <a href="#projects" class="btn-warm">view my work ↓</a>
       <a href="mailto:raedsh.work@gmail.com" class="btn-ghost">get in touch →</a>
@@ -335,8 +337,8 @@ section[id],div[id]{scroll-margin-top:5rem;}
       <div class="avail"><span class="avail-dot"></span>Open to freelance projects</div>
     </div>
     <div class="stat-row">
-      <div class="stat-box"><div class="stat-num">6<span>+</span></div><div class="stat-lbl">Years exp.</div></div>
-      <div class="stat-box"><div class="stat-num" style="font-size:1.65rem;">3.89</div><div class="stat-lbl">GPA</div></div>
+      <div class="stat-box"><div class="stat-num"><span class="yrs yrs-num">7</span><span>+</span></div><div class="stat-lbl">Years coding</div></div>
+      <div class="stat-box"><div class="stat-num" style="font-size:1.65rem;">3.88</div><div class="stat-lbl">GPA</div></div>
     </div>
     <div class="cert-strip">
       <div class="cert-icon" aria-hidden="true">🏅</div>
@@ -564,5 +566,9 @@ section[id],div[id]{scroll-margin-top:5rem;}
   </div>
 </footer>
 
+<script>
+/* Years since Raed started coding (2019) — updates automatically each year */
+(function(){try{var y=new Date().getFullYear()-2019;if(y>0){document.querySelectorAll('.yrs').forEach(function(e){e.textContent=y;});}}catch(e){}})();
+</script>
 </body>
 </html>
