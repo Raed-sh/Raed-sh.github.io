@@ -1,6 +1,6 @@
 # Raed Shafeek (رائد شفيق) — Raed Codes
 
-> Raed Shafeek is a Senior Software Engineer at Sager Drone and a freelance AI engineer based in Amman, Jordan, with 6+ years of experience building secure, scalable platforms. He is the founder and sole developer of CarTech, a car inspection platform, and was a founding full-stack engineer at Vamu for over three years. He shares practical engineering tips in Arabic on Instagram as "Raed Codes" (@raedcodes). Also known as Raed AbuJaib / Raed Shafeek AbuJaib.
+> Raed Shafeek is a Senior Software Engineer at Sager Drone and a freelance AI engineer based in Amman, Jordan, coding since 2019 and building secure, scalable platforms. He is the founder and sole developer of CarTech, a car inspection platform, and was a founding full-stack engineer at Vamu for over three years. He shares practical engineering tips in Arabic on Instagram as "Raed Codes" (@raedcodes). Also known as Raed AbuJaib / Raed Shafeek AbuJaib.
 
 ## Expertise
 - AI engineering: LLM apps and integration, AI agents and automation, RAG, AI architecture consulting (freelance since 2024)
